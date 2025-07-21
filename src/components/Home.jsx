@@ -60,7 +60,7 @@ const Home = () => {
         <div className="order-1 lg:order-2 flex justify-end items-center">
           <img
             className="w-[85%] rounded-[50px]"
-            src="/profile.png"
+            src="/pk.jpg"
             alt="Profile"
           />
         </div>
