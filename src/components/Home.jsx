@@ -55,7 +55,7 @@ const Home = () => {
               I transform complex problems into elegant, user-friendly solutions using modern technologies.
             </p>
 
-            {/* Quick Stats */}
+            {/* Quick Stats
             <div className="flex flex-wrap gap-6 py-4" data-aos="fade-up" data-aos-delay="300">
               <div className="text-center">
                 <div className="text-2xl font-bold text-[#fe5617]">2+</div>
@@ -69,7 +69,7 @@ const Home = () => {
                 <div className="text-2xl font-bold text-[#fe5617]">100%</div>
                 <div className="text-sm text-gray-500">Client Satisfaction</div>
               </div>
-            </div>
+            </div> */}
 
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4" data-aos="fade-up" data-aos-delay="400">
